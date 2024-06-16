@@ -1,6 +1,6 @@
 # Large Files
 r5/
-spatial/
+#spatial/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
