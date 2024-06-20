@@ -1,5 +1,9 @@
 # Large Files
-r5/
+r5/shenzhen.osm.pbf
+r5/shenzhen.osm.pbf.mapdb
+r5/shenzhen.osm.pbf.mapdb.p
+r5/greater-london-latest.osm.pbf
+r5/improved-gtfs-london-dft.zip
 #spatial/
 
 # Byte-compiled / optimized / DLL files
